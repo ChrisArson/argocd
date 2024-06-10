@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: chrisarson/myapp_argo:latest
+        tags: chrisarson/myapp_argo:v1

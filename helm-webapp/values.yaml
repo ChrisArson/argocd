@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: chrisarson/myapp_argo
-  tag: latest
+  tag: v1
